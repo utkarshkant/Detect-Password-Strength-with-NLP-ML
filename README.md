@@ -1,6 +1,6 @@
 # Detecting Password Strength with NLP & Machine Learning
 
-# Detect Password Strength 
+
 ### Objective : Create a model to detect the strength of any password.
 - This will be solved using **Multiclass Classification NLP and Machine Learning** 
 - Password strength is determined by multiple factors. Some of them are:
